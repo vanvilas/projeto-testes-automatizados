@@ -28,7 +28,7 @@ projeto-testes-automatizados/
 - Automatiza o login em um sistema e valida a autenticação.
 - Arquivo: ```login.test.js```
 ### 3. Login Simples
--Simula um processo básico de login para testar interações com formulários.
+- Simula um processo básico de login para testar interações com formulários.
 - Arquivo: ```login-simples.js```
 
 ## Como Executar os Testes
